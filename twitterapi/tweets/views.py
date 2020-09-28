@@ -34,13 +34,13 @@ class TweetsByHashtagApiView(APIView):
         except Exception as e:
             # logging unexpected errors for debugging
             logging.exception(
-                f'failed to run TwitterServices.get_tweets_by_hashtag: {e}'
+                f'Failed to run TwitterServices.get_tweets_by_hashtag: {e}'
             )
             # hide the actual error message and return
             # internal server error ensure the error response's
             # format as same as the django's default format
             return Response(
-                {'internal server error': ['unknown error occurred.']},
+                {'Internal server error': ['Unknown error occurred.']},
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
 
@@ -72,12 +72,12 @@ class TweetsByUserApiView(APIView):
         except Exception as e:
             # logging unexpected errors for debugging
             logging.exception(
-                f'failed to run TwitterServices.get_tweets_by_user: {e}'
+                f'Failed to run TwitterServices.get_tweets_by_user: {e}'
             )
             # hide the actual error message and return
             # internal server error ensure the error response's
             # format as same as the django's default format
             return Response(
-                {'internal server error': ['unknown error occurred.']},
+                {'Internal server error': ['Unknown error occurred.']},
                 status=status.HTTP_500_INTERNAL_SERVER_ERROR
             )
