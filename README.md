@@ -54,6 +54,16 @@ This project include two APIs.
        ...
     ] 
     ```
+    
+## Preview the APIs
+
+A demo has been deployed, you can explorer this app through urls below:
+
+1. Fetch tweets by hashtag `Python` and `limit=2`: 
+`https://6078pizoxf.execute-api.ap-southeast-1.amazonaws.com/dev/hashtags/python?limit=2`
+
+2. Fetch tweets by user `twitter`: 
+`https://6078pizoxf.execute-api.ap-southeast-1.amazonaws.com/dev/users/twitter`
 
 ## Getting Started
 
@@ -61,8 +71,7 @@ This project include two APIs.
 
 * Python version >= 3.6
 * Twitter developer API key
-* Docker
-* Docker Compose
+* Unix/Linux OS
 
 ### Installing
 
