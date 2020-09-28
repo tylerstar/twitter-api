@@ -73,6 +73,12 @@ This project include two APIs.
 2. Build the image
    
    ```cd twitter_api && docker-compose build```
+   
+### Configuration
+Running the command below to set the Twitter Developer API Bearer Token as 
+environment variable in command line or docker-compose.yml before executing the program
+
+```export TWITTER_TOKEN={YOUR TWITTER BEARER TOKEN}```
 
 ### Executing program
 
