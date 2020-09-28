@@ -1,0 +1,2059 @@
+{
+    "data": [
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:45.000Z",
+            "author_id": "1260284319345623040",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518300967829511"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:34.000Z",
+            "author_id": "1276058041389953024",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518252804730882"
+        },
+        {
+            "text": "RT @AnalyticsVidhya: #PyCaret is a super useful and low-code #Python library for performing multiple #MachineLearning tasks in double-quick…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 21,
+                        "end": 29,
+                        "tag": "PyCaret"
+                    },
+                    {
+                        "start": 61,
+                        "end": 68,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 101,
+                        "end": 117,
+                        "tag": "MachineLearning"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 19,
+                        "username": "AnalyticsVidhya"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:24.000Z",
+            "author_id": "770057",
+            "public_metrics": {
+                "retweet_count": 5,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518213084667904"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:18.000Z",
+            "author_id": "3377219128",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518185305747456"
+        },
+        {
+            "text": "RT @BuzzTechy: Machine Learning Skill Mastery Full Deep Learning Bundle \n\nlink - https://t.co/8GQ3tzk5Bp \n\n#BigData #Analytics #DataScience…",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 81,
+                        "end": 104,
+                        "url": "https://t.co/8GQ3tzk5Bp",
+                        "expanded_url": "https://giftcourse.me/machine-learning-skill-bundle/",
+                        "display_url": "giftcourse.me/machine-learni…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310494902925447169/majfYw6b?format=jpg&name=orig",
+                                "width": 500,
+                                "height": 281
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310494902925447169/majfYw6b?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Machine Learning Skill Mastery Full Deep Learning Bundle",
+                        "description": "Eduonix: Machine Learning Skill Bundle. Machine Learning Skill Mastery Full Deep Learning Bundle (10 Courses, 78+ Hrs Video, 537+ Lectures)",
+                        "unwound_url": "https://giftcourse.me/machine-learning-skill-bundle/"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 107,
+                        "end": 115,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 116,
+                        "end": 126,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 127,
+                        "end": 139,
+                        "tag": "DataScience"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "BuzzTechy"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:16.000Z",
+            "author_id": "932157833969307648",
+            "public_metrics": {
+                "retweet_count": 30,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518178431275008"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:14.000Z",
+            "author_id": "1064108650271309826",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518168847294464"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:12.000Z",
+            "author_id": "1293962931315585024",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518162832621568"
+        },
+        {
+            "text": "RT @susuboxceo: FOLLOW, FOR MORE RAINY DAYS \n\n#100DaysOfCode #Programming #Developer #WebDev #GameDev #JavaScript #ReactJS #Redux #Angular…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 46,
+                        "end": 60,
+                        "tag": "100DaysOfCode"
+                    },
+                    {
+                        "start": 61,
+                        "end": 73,
+                        "tag": "Programming"
+                    },
+                    {
+                        "start": 74,
+                        "end": 84,
+                        "tag": "Developer"
+                    },
+                    {
+                        "start": 85,
+                        "end": 92,
+                        "tag": "WebDev"
+                    },
+                    {
+                        "start": 93,
+                        "end": 101,
+                        "tag": "GameDev"
+                    },
+                    {
+                        "start": 102,
+                        "end": 113,
+                        "tag": "JavaScript"
+                    },
+                    {
+                        "start": 114,
+                        "end": 122,
+                        "tag": "ReactJS"
+                    },
+                    {
+                        "start": 123,
+                        "end": 129,
+                        "tag": "Redux"
+                    },
+                    {
+                        "start": 130,
+                        "end": 138,
+                        "tag": "Angular"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "susuboxceo"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:11.000Z",
+            "author_id": "1236222056921878528",
+            "public_metrics": {
+                "retweet_count": 35,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518157745033216"
+        },
+        {
+            "text": "RT @susuboxceo: FOLLOW, FOR MORE RAINY DAYS \n\n#100DaysOfCode #Programming #Developer #WebDev #GameDev #JavaScript #ReactJS #Redux #Angular…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 46,
+                        "end": 60,
+                        "tag": "100DaysOfCode"
+                    },
+                    {
+                        "start": 61,
+                        "end": 73,
+                        "tag": "Programming"
+                    },
+                    {
+                        "start": 74,
+                        "end": 84,
+                        "tag": "Developer"
+                    },
+                    {
+                        "start": 85,
+                        "end": 92,
+                        "tag": "WebDev"
+                    },
+                    {
+                        "start": 93,
+                        "end": 101,
+                        "tag": "GameDev"
+                    },
+                    {
+                        "start": 102,
+                        "end": 113,
+                        "tag": "JavaScript"
+                    },
+                    {
+                        "start": 114,
+                        "end": 122,
+                        "tag": "ReactJS"
+                    },
+                    {
+                        "start": 123,
+                        "end": 129,
+                        "tag": "Redux"
+                    },
+                    {
+                        "start": 130,
+                        "end": 138,
+                        "tag": "Angular"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "susuboxceo"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:09.000Z",
+            "author_id": "1278273884903505921",
+            "public_metrics": {
+                "retweet_count": 35,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518148978937862"
+        },
+        {
+            "text": "RT @susuboxceo: FOLLOW, FOR MORE RAINY DAYS \n\n#100DaysOfCode #Programming #Developer #WebDev #GameDev #JavaScript #ReactJS #Redux #Angular…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 46,
+                        "end": 60,
+                        "tag": "100DaysOfCode"
+                    },
+                    {
+                        "start": 61,
+                        "end": 73,
+                        "tag": "Programming"
+                    },
+                    {
+                        "start": 74,
+                        "end": 84,
+                        "tag": "Developer"
+                    },
+                    {
+                        "start": 85,
+                        "end": 92,
+                        "tag": "WebDev"
+                    },
+                    {
+                        "start": 93,
+                        "end": 101,
+                        "tag": "GameDev"
+                    },
+                    {
+                        "start": 102,
+                        "end": 113,
+                        "tag": "JavaScript"
+                    },
+                    {
+                        "start": 114,
+                        "end": 122,
+                        "tag": "ReactJS"
+                    },
+                    {
+                        "start": 123,
+                        "end": 129,
+                        "tag": "Redux"
+                    },
+                    {
+                        "start": 130,
+                        "end": 138,
+                        "tag": "Angular"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 14,
+                        "username": "susuboxceo"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:54:04.000Z",
+            "author_id": "3930103636",
+            "public_metrics": {
+                "retweet_count": 35,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518125763362816"
+        },
+        {
+            "text": "Great news for quick 🚀programming using Python 🐍 simplicity! How could it be simpler? #OpenGeode #opensource #Python #simple https://t.co/QJjD5dzOjb",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 125,
+                        "end": 148,
+                        "url": "https://t.co/QJjD5dzOjb",
+                        "expanded_url": "https://twitter.com/geodesolutions/status/1310514752888737794",
+                        "display_url": "twitter.com/geodesolutions…"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 41,
+                        "end": 46,
+                        "probability": 0.6574,
+                        "type": "Product",
+                        "normalized_text": "Python"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 86,
+                        "end": 96,
+                        "tag": "OpenGeode"
+                    },
+                    {
+                        "start": 97,
+                        "end": 108,
+                        "tag": "opensource"
+                    },
+                    {
+                        "start": 109,
+                        "end": 116,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "simple"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:54.000Z",
+            "author_id": "809694367208312832",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518086953578496"
+        },
+        {
+            "text": "Our last #Python tutorial described how to perform CRUD (create, read, update, delete) operations with PostgreSQL using Python. If PostgreSQL isn't your thing, this tutorial explains how to perform the same CRUD operations with @MySQL using Python.\n\nhttps://t.co/yB8CCqss9L",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 250,
+                        "end": 273,
+                        "url": "https://t.co/yB8CCqss9L",
+                        "expanded_url": "https://wellsr.com/python/performing-crud-operations-with-python-and-mysql/",
+                        "display_url": "wellsr.com/python/perform…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310518061687099393/I8yWE9yi?format=png&name=orig",
+                                "width": 700,
+                                "height": 350
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310518061687099393/I8yWE9yi?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Performing CRUD operations with Python and MySQL",
+                        "description": "This article explains how to create a database and tables in MySQL, and how to perform Create, Read, Update and Delete (CRUD) operations with MySQL using Python.",
+                        "unwound_url": "https://wellsr.com/python/performing-crud-operations-with-python-and-mysql/"
+                    }
+                ],
+                "annotations": [
+                    {
+                        "start": 103,
+                        "end": 125,
+                        "probability": 0.1939,
+                        "type": "Product",
+                        "normalized_text": "PostgreSQL using Python"
+                    },
+                    {
+                        "start": 131,
+                        "end": 140,
+                        "probability": 0.6518,
+                        "type": "Product",
+                        "normalized_text": "PostgreSQL"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 9,
+                        "end": 16,
+                        "tag": "Python"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 228,
+                        "end": 234,
+                        "username": "MySQL"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:48.000Z",
+            "author_id": "314508505",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310518059099189248"
+        },
+        {
+            "text": "Как мы оркестрируем процессы обработки данных с помощью Apache Airflow: https://t.co/Itgex7m2UF #python",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 72,
+                        "end": 95,
+                        "url": "https://t.co/Itgex7m2UF",
+                        "expanded_url": "https://ift.tt/30ez1qB",
+                        "display_url": "ift.tt/30ez1qB",
+                        "status": 200,
+                        "title": "Как мы оркестрируем процессы обработки данных с помощью Apache Airflow",
+                        "description": "В нашем департаменте Airflow играет роль оркестратора процессов обработки больших данных, с его помощью мы загружаем в Hadoop данные из в...",
+                        "unwound_url": "https://pythondigest.ru/view/53575/"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 96,
+                        "end": 103,
+                        "tag": "python"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:28.000Z",
+            "author_id": "2552250270",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517977708670977"
+        },
+        {
+            "text": "RT @Doxyaxone: Free eBook: Python #MachineLearning by Example. #BigData #Analytics #DataScience  #IoT #IIoT #Python #RStats #TensorFlow #Ja…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 34,
+                        "end": 50,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 63,
+                        "end": 71,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 72,
+                        "end": 82,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 83,
+                        "end": 95,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 97,
+                        "end": 101,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 102,
+                        "end": 107,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 108,
+                        "end": 115,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 116,
+                        "end": 123,
+                        "tag": "RStats"
+                    },
+                    {
+                        "start": 124,
+                        "end": 135,
+                        "tag": "TensorFlow"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "Doxyaxone"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:25.000Z",
+            "author_id": "169014513",
+            "public_metrics": {
+                "retweet_count": 20,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517965599768579"
+        },
+        {
+            "text": "¡Tomorrow starts @SQLBits 2020! https://t.co/f6RywAqGjK \nI'll be presenting twice this year: 20' y 50' 🤗😀\nLet's do the #cleansing with #M &amp;/or #Python languages🧐https://t.co/xIWprYXkhB \nLet's play with a date field &amp; #TimeIntelligence in @msPowerBI📆https://t.co/rDR2SBU4tU",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 32,
+                        "end": 55,
+                        "url": "https://t.co/f6RywAqGjK",
+                        "expanded_url": "https://sqlbits.com/",
+                        "display_url": "sqlbits.com",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1309055219624480774/dYHjCJFX?format=png&name=orig",
+                                "width": 420,
+                                "height": 185
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1309055219624480774/dYHjCJFX?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "The Data Conference - SQLBits 2020 - 29 Sep 2020 - 3 Oct 2020",
+                        "description": "SQLBits 2020 - 29th September - 3rd October 2020 - Virtual -",
+                        "unwound_url": "https://sqlbits.com/"
+                    },
+                    {
+                        "start": 165,
+                        "end": 188,
+                        "url": "https://t.co/xIWprYXkhB",
+                        "expanded_url": "https://sqlbits.com/Sessions/Event20/Lets_do_the_cleansing_with_M_and_or_Python_languages",
+                        "display_url": "sqlbits.com/Sessions/Event…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310517734346809344/cNBVng-7?format=png&name=orig",
+                                "width": 420,
+                                "height": 185
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310517734346809344/cNBVng-7?format=png&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Lets do the cleansing with M and / or Python languages with Ana Maria Bisbe York - SQLBits 2020 - 29 Sep 2020 - 3 Oct 2020",
+                        "description": "SQLBits Session - This short session will cover some scenarios of cleansing data in Power Query using M, Python, or both languages. with Ana Maria Bisbe York",
+                        "unwound_url": "https://sqlbits.com/Sessions/Event20/Lets_do_the_cleansing_with_M_and_or_Python_languages"
+                    },
+                    {
+                        "start": 257,
+                        "end": 280,
+                        "url": "https://t.co/rDR2SBU4tU",
+                        "expanded_url": "https://sqlbits.com/Sessions/Event20/Lets_play_with_a_date_field__Time_Intelligence_in_Power_BI",
+                        "display_url": "sqlbits.com/Sessions/Event…"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 119,
+                        "end": 129,
+                        "tag": "cleansing"
+                    },
+                    {
+                        "start": 135,
+                        "end": 137,
+                        "tag": "M"
+                    },
+                    {
+                        "start": 147,
+                        "end": 154,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 225,
+                        "end": 242,
+                        "tag": "TimeIntelligence"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 17,
+                        "end": 25,
+                        "username": "SQLBits"
+                    },
+                    {
+                        "start": 246,
+                        "end": 256,
+                        "username": "MSPowerBI"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:24.000Z",
+            "author_id": "105467500",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517958402363392"
+        },
+        {
+            "text": "RT @gp_pulipaka: Top 8 AI Influencers To Follow On Instagram. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RSt…",
+            "entities": {
+                "annotations": [
+                    {
+                        "start": 51,
+                        "end": 59,
+                        "probability": 0.7075,
+                        "type": "Product",
+                        "normalized_text": "Instagram"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 62,
+                        "end": 70,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 71,
+                        "end": 81,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 82,
+                        "end": 94,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 95,
+                        "end": 98,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 99,
+                        "end": 115,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 116,
+                        "end": 120,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 121,
+                        "end": 126,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 127,
+                        "end": 134,
+                        "tag": "Python"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "gp_pulipaka"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:18.000Z",
+            "author_id": "1472014962",
+            "public_metrics": {
+                "retweet_count": 44,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517933303623682"
+        },
+        {
+            "text": "RT @siddbadal: Have worked on many python projects in the last few weeks. Here is the repo of programs I worked on to practice core python.…",
+            "created_at": "2020-09-28T09:53:11.000Z",
+            "author_id": "1236222056921878528",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "siddbadal"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517905566707713"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:07.000Z",
+            "author_id": "1260015280048222208",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517890404229122"
+        },
+        {
+            "text": "RT @siddbadal: Have worked on many python projects in the last few weeks. Here is the repo of programs I worked on to practice core python.…",
+            "created_at": "2020-09-28T09:53:06.000Z",
+            "author_id": "1287090338176303107",
+            "entities": {
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "siddbadal"
+                    }
+                ]
+            },
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517884708421634"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:06.000Z",
+            "author_id": "1300454972413349889",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517884016230401"
+        },
+        {
+            "text": "RT @cloudpreacher: An Intro to #ArtificialIntelligence!  \n\nhttps://t.co/GH0m1po5HF \n\nvia @sallyeaves by @DeepLearn007 #AI #MachineLearning…",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 59,
+                        "end": 82,
+                        "url": "https://t.co/GH0m1po5HF",
+                        "expanded_url": "https://bit.ly/3cxZCDU",
+                        "display_url": "bit.ly/3cxZCDU"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 31,
+                        "end": 54,
+                        "tag": "ArtificialIntelligence"
+                    },
+                    {
+                        "start": 118,
+                        "end": 121,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 122,
+                        "end": 138,
+                        "tag": "MachineLearning"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 17,
+                        "username": "cloudpreacher"
+                    },
+                    {
+                        "start": 89,
+                        "end": 100,
+                        "username": "sallyeaves"
+                    },
+                    {
+                        "start": 104,
+                        "end": 117,
+                        "username": "DeepLearn007"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:06.000Z",
+            "author_id": "932157833969307648",
+            "public_metrics": {
+                "retweet_count": 68,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517883244605440"
+        },
+        {
+            "text": "RT @gp_pulipaka: Basic Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFl…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 39,
+                        "end": 55,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 57,
+                        "end": 65,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 66,
+                        "end": 76,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 77,
+                        "end": 89,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 90,
+                        "end": 93,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 94,
+                        "end": 98,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 99,
+                        "end": 104,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 105,
+                        "end": 113,
+                        "tag": "PyTorch"
+                    },
+                    {
+                        "start": 114,
+                        "end": 121,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 122,
+                        "end": 129,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "gp_pulipaka"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:05.000Z",
+            "author_id": "924173288409939968",
+            "public_metrics": {
+                "retweet_count": 100,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517880916713473"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:05.000Z",
+            "author_id": "1190726565073522694",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517879800958976"
+        },
+        {
+            "text": "Optimize the output GIF size. https://t.co/vyjkbHnwUm #github #Python #Dockerfile",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 30,
+                        "end": 53,
+                        "url": "https://t.co/vyjkbHnwUm",
+                        "expanded_url": "https://github.com/thec0sm0s/image-processor/issues/1",
+                        "display_url": "github.com/thec0sm0s/imag…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310517881046814720/F7ft1Vvz?format=jpg&name=orig",
+                                "width": 400,
+                                "height": 400
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310517881046814720/F7ft1Vvz?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Optimize the output GIF size. · Issue #1 · thec0sm0s/image-processor",
+                        "description": "image-processor/app/api_resources/discord/welcome_banner.py Lines 104 to 110 in 513bf2d for i, frame in enumerate(frames): frame = frame.convert(\"RGBA\") frame.paste(avatar, avatar...",
+                        "unwound_url": "https://github.com/thec0sm0s/image-processor/issues/1"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 54,
+                        "end": 61,
+                        "tag": "github"
+                    },
+                    {
+                        "start": 62,
+                        "end": 69,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 70,
+                        "end": 81,
+                        "tag": "Dockerfile"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:04.000Z",
+            "author_id": "1078992647933448192",
+            "public_metrics": {
+                "retweet_count": 0,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517877213102080"
+        },
+        {
+            "text": "RT @gp_pulipaka: Basic Mathematics for #MachineLearning. #BigData #Analytics #DataScience #AI #IoT #IIoT #PyTorch #Python #RStats #TensorFl…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 39,
+                        "end": 55,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 57,
+                        "end": 65,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 66,
+                        "end": 76,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 77,
+                        "end": 89,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 90,
+                        "end": 93,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 94,
+                        "end": 98,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 99,
+                        "end": 104,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 105,
+                        "end": 113,
+                        "tag": "PyTorch"
+                    },
+                    {
+                        "start": 114,
+                        "end": 121,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 122,
+                        "end": 129,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "gp_pulipaka"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:03.000Z",
+            "author_id": "296704823",
+            "public_metrics": {
+                "retweet_count": 100,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517871622193153"
+        },
+        {
+            "text": "Have worked on many python projects in the last few weeks. Here is the repo of programs I worked on to practice core python.\n#python #coding #100DaysOfCode #pythonprogramming \nhttps://t.co/5JHLiMPzhG",
+            "entities": {
+                "urls": [
+                    {
+                        "start": 176,
+                        "end": 199,
+                        "url": "https://t.co/5JHLiMPzhG",
+                        "expanded_url": "https://github.com/Siddharthbadal/Python",
+                        "display_url": "github.com/Siddharthbadal…",
+                        "images": [
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310517866140114949/bUFwQSRo?format=jpg&name=orig",
+                                "width": 400,
+                                "height": 400
+                            },
+                            {
+                                "url": "https://pbs.twimg.com/news_img/1310517866140114949/bUFwQSRo?format=jpg&name=150x150",
+                                "width": 150,
+                                "height": 150
+                            }
+                        ],
+                        "status": 200,
+                        "title": "Siddharthbadal/Python",
+                        "description": "Python programs. Contribute to Siddharthbadal/Python development by creating an account on GitHub.",
+                        "unwound_url": "https://github.com/Siddharthbadal/Python"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "python"
+                    },
+                    {
+                        "start": 133,
+                        "end": 140,
+                        "tag": "coding"
+                    },
+                    {
+                        "start": 141,
+                        "end": 155,
+                        "tag": "100DaysOfCode"
+                    },
+                    {
+                        "start": 156,
+                        "end": 174,
+                        "tag": "pythonprogramming"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:53:01.000Z",
+            "author_id": "1174053965161361408",
+            "public_metrics": {
+                "retweet_count": 2,
+                "reply_count": 0,
+                "like_count": 1,
+                "quote_count": 0
+            },
+            "id": "1310517862583341057"
+        },
+        {
+            "text": "RT @gp_pulipaka: A 9 Page Data Science Cheat Sheet. #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 15,
+                        "username": "gp_pulipaka"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:52:58.000Z",
+            "author_id": "296704823",
+            "public_metrics": {
+                "retweet_count": 137,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517849929199618"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:52:45.000Z",
+            "author_id": "620880428",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517796795752450"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:52:37.000Z",
+            "author_id": "1275056773443973124",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517764206080000"
+        },
+        {
+            "text": "RT @ZombieOG3: commandez via\n Snap:https://Willu269\n#BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #Tenso…",
+            "entities": {
+                "hashtags": [
+                    {
+                        "start": 52,
+                        "end": 60,
+                        "tag": "BigData"
+                    },
+                    {
+                        "start": 61,
+                        "end": 71,
+                        "tag": "Analytics"
+                    },
+                    {
+                        "start": 72,
+                        "end": 84,
+                        "tag": "DataScience"
+                    },
+                    {
+                        "start": 85,
+                        "end": 88,
+                        "tag": "AI"
+                    },
+                    {
+                        "start": 89,
+                        "end": 105,
+                        "tag": "MachineLearning"
+                    },
+                    {
+                        "start": 106,
+                        "end": 110,
+                        "tag": "IoT"
+                    },
+                    {
+                        "start": 111,
+                        "end": 116,
+                        "tag": "IIoT"
+                    },
+                    {
+                        "start": 117,
+                        "end": 124,
+                        "tag": "Python"
+                    },
+                    {
+                        "start": 125,
+                        "end": 132,
+                        "tag": "RStats"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "start": 3,
+                        "end": 13,
+                        "username": "ZombieOG3"
+                    }
+                ]
+            },
+            "created_at": "2020-09-28T09:52:37.000Z",
+            "author_id": "1260062769543434240",
+            "public_metrics": {
+                "retweet_count": 14,
+                "reply_count": 0,
+                "like_count": 0,
+                "quote_count": 0
+            },
+            "id": "1310517764143165440"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "username": "ZombieOG3",
+                "url": "",
+                "name": "Zombie OG",
+                "id": "1260284319345623040"
+            },
+            {
+                "username": "datasciencebot_",
+                "url": "",
+                "name": "The Data Science Bot",
+                "id": "1276058041389953024"
+            },
+            {
+                "username": "soci",
+                "url": "https://t.co/3hKjZv7AOs",
+                "name": "Dr Steven McDermott",
+                "id": "770057"
+            },
+            {
+                "username": "AskamRobert",
+                "url": "https://t.co/OgGp9XeJp0",
+                "name": "Robert Askam",
+                "id": "3377219128"
+            },
+            {
+                "username": "enricofrasca3",
+                "url": "",
+                "name": "Enricofrasca3@gmail.",
+                "id": "932157833969307648"
+            },
+            {
+                "username": "TheCuriousLuke",
+                "url": "",
+                "name": "Curious Luke",
+                "id": "1064108650271309826"
+            },
+            {
+                "username": "PythonCodeHub",
+                "url": "",
+                "name": "PythonProgrammingHub_Bot",
+                "id": "1293962931315585024"
+            },
+            {
+                "username": "AltBot4",
+                "url": "",
+                "name": "AltBot 👽🤖👨🏻‍💻",
+                "id": "1236222056921878528"
+            },
+            {
+                "username": "friday_Js_bot",
+                "url": "",
+                "name": "Friday",
+                "id": "1278273884903505921"
+            },
+            {
+                "username": "JimLynchCodes",
+                "url": "https://t.co/zZm076d0CS",
+                "name": "Jim Lynch",
+                "id": "3930103636"
+            },
+            {
+                "username": "PiAnquez",
+                "url": "",
+                "name": "Pierre Anquez",
+                "id": "809694367208312832"
+            },
+            {
+                "username": "ryanwellsr",
+                "url": "https://t.co/GyhnlJ25Yw",
+                "name": "Ryan Wells",
+                "id": "314508505"
+            },
+            {
+                "username": "pydigest",
+                "url": "http://t.co/U9ClOTXl0W",
+                "name": "Python Digest",
+                "id": "2552250270"
+            },
+            {
+                "username": "Rahul_RPandya",
+                "url": "https://t.co/sVaUjG7TMe",
+                "name": "Rahul R 🤖🚀",
+                "id": "169014513"
+            },
+            {
+                "username": "ambynet",
+                "url": "https://t.co/HCBB4SCDKf",
+                "name": "Ana María Bisbé York",
+                "id": "105467500"
+            },
+            {
+                "username": "Slider_Hoos",
+                "url": "",
+                "name": "JES",
+                "id": "1472014962"
+            },
+            {
+                "username": "BotRaj1",
+                "url": "",
+                "name": "BOT Kitty 🐈",
+                "id": "1260015280048222208"
+            },
+            {
+                "username": "ActualCodeBot",
+                "url": "https://t.co/DYAVMQMwCg",
+                "name": "100 Days of Actual Code 🤖",
+                "id": "1287090338176303107"
+            },
+            {
+                "username": "dailyvigour",
+                "url": "",
+                "name": "Daily inspirations",
+                "id": "1300454972413349889"
+            },
+            {
+                "username": "GentooBot",
+                "url": "",
+                "name": "GentooBot",
+                "id": "924173288409939968"
+            },
+            {
+                "username": "LlnuxBot",
+                "url": "https://t.co/QySTldc3HS",
+                "name": "LinuxBot",
+                "id": "1190726565073522694"
+            },
+            {
+                "username": "first_issues",
+                "url": "https://t.co/SemQ7E91QU",
+                "name": "first-issues",
+                "id": "1078992647933448192"
+            },
+            {
+                "username": "realThami",
+                "url": "",
+                "name": "TeeQue",
+                "id": "296704823"
+            },
+            {
+                "username": "siddbadal",
+                "url": "https://t.co/0jBl7itezX",
+                "name": "Sidharth Badal",
+                "id": "1174053965161361408"
+            },
+            {
+                "username": "JohnEngine_",
+                "url": "",
+                "name": "John Engine",
+                "id": "620880428"
+            },
+            {
+                "username": "javascript_bot_",
+                "url": "",
+                "name": "#100DaysOfCode",
+                "id": "1275056773443973124"
+            },
+            {
+                "username": "nlognbot",
+                "url": "https://t.co/PujHDQFYea",
+                "name": "#100DaysOfCode",
+                "id": "1260062769543434240"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1310518300967829511",
+        "oldest_id": "1310517764143165440",
+        "result_count": 30,
+        "next_token": "b26v89c19zqg8o3fos8sd7xafg6oenhd1u1nte1dcvyil"
+    }
+}
