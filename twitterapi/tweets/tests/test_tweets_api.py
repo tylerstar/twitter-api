@@ -57,7 +57,7 @@ class PublicTweetsApiTest(TestCase):
         self.assertTrue(isinstance(tweet['text'], str))
 
     @mock.patch('requests.get', side_effect=mocked_twitter_api)
-    def test_retrieve_given_number_of_tweets(self, mock_get):
+    def test_retrieve_given_number_of_tweets_by_hashtag(self, mock_get):
         hashtag = 'python'
         url = tweets_by_hashtag_url(hashtag)
         payload = {'limit': 12}
@@ -134,6 +134,16 @@ class PublicTweetsApiTest(TestCase):
         self.assertIn('text', tweet)
         self.assertTrue(isinstance(tweet['text'], str))
 
+    @mock.patch('requests.get', side_effect=mocked_twitter_api)
+    def test_retrieve_given_number_of_tweets_by_user(self, mock_get):
+        screen_name = 'twitter'
+        url = tweets_by_user_url(screen_name)
+        payload = {'limit': 12}
+        res = self.client.get(url, data=payload)
+
+        self.assertEqual(res.status_code, status.HTTP_200_OK)
+        self.assertEqual(len(res.data), 12)
+
     @mock.patch(
         'requests.get',
         side_effect=mocked_twitter_api_without_results
@@ -146,6 +156,22 @@ class PublicTweetsApiTest(TestCase):
 
         self.assertEqual(res.status_code, status.HTTP_200_OK)
         self.assertEqual(res.data, [])
+
+    def test_retrieve_tweets_by_user_with_invalid_limit(self):
+        screen_name = 'twitter'
+        url = tweets_by_user_url(screen_name)
+
+        payload = {'limit': 0}
+        res = self.client.get(url, data=payload)
+        self.assertEqual(res.status_code, status.HTTP_400_BAD_REQUEST)
+
+        payload = {'limit': -1}
+        res = self.client.get(url, data=payload)
+        self.assertEqual(res.status_code, status.HTTP_400_BAD_REQUEST)
+
+        payload = {'limit': 101}
+        res = self.client.get(url, data=payload)
+        self.assertEqual(res.status_code, status.HTTP_400_BAD_REQUEST)
 
     def test_not_existed_methods(self):
         """Test post/delete/patch/put method on APIs"""
