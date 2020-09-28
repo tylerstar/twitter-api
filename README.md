@@ -89,7 +89,7 @@ environment variable in command line or docker-compose.yml before executing the 
    
 2. You can also run the service through pre-built docker image from Docker Hub
 
-   ```docker run -it --rm balyon/twitterapi python manage.py runserver 0.0.0.0:8000```
+   ```DEBUG=True docker run -it --rm balyon/twitterapi python manage.py runserver 0.0.0.0:8000```
    
 ### Running the test
 
