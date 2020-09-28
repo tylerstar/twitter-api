@@ -116,4 +116,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-TWITTER_TOKEN = os.environ('TWITTER_TOKEN')
+TWITTER_TOKEN = os.getenv('TWITTER_TOKEN')
