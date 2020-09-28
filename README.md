@@ -60,9 +60,11 @@ This project include two APIs.
 A demo has been deployed, you can explorer this app through urls below:
 
 1. Fetch tweets by hashtag `Python` and `limit=2`: 
+
     ```https://6078pizoxf.execute-api.ap-southeast-1.amazonaws.com/dev/hashtags/python?limit=2```
 
 2. Fetch tweets by user `twitter` and return 30 tweets by default: 
+
     ```https://6078pizoxf.execute-api.ap-southeast-1.amazonaws.com/dev/users/twitter```
 
 ## Getting Started
