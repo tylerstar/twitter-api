@@ -9,8 +9,8 @@ services:
     volumes:
       - ./twitterapi:/app
     command: >
-      sh -c "python manage.py runserver 0.0.0.0:8000"
-      # sh -c "gunicorn --workers=2 -b :8000 twitterapi.wsgi"
+      sh -c "python manage.py migrate
+             python manage.py runserver 0.0.0.0:8000"
     environment:
       - DEBUG=True
-      - TWITTER_TOKEN=
+      - TWITTER_TOKEN=AAAAAAAAAAAAAAAAAAAAADxaIAEAAAAARGkPVbWXbGj2LNaPLCFIIr4365k%3DMZwgyuEIyscngQPE1DtgFUEG2b26sN7QgB4MO2sdAOwdPcZECi
