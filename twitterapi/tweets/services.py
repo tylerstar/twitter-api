@@ -243,7 +243,7 @@ class TwitterUserAPIService:
         return tweet['replies_count']
 
     def _get_retweets_count(self, tweet):
-        return tweet['retweeted']
+        return tweet['retweet_count']
 
     def _get_text(self, tweet):
         return tweet['text']

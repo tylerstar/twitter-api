@@ -218,7 +218,7 @@ class TestTwitterUserAPIService(TestCase):
         tweet = self.service._tweets[0]
         retweets_count = self.service._get_retweets_count(tweet)
 
-        result = tweet['retweeted']
+        result = tweet['retweet_count']
         self.assertEqual(retweets_count, result)
 
     @mock.patch('requests.get', side_effect=mocked_twitter_api)
