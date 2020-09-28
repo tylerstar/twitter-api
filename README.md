@@ -8,7 +8,7 @@ A web server powered by Django that help you to fetch tweets via Twitter APIs.
 
 This project include two APIs.
 
-1. Fetch recent tweets by a hashtag `/hashtags/<hashtags>`
+1. Fetch recent tweets by a hashtag
    
     Example request:
     ```curl -H "Accept: application/json" -X GET http://localhost:xxxx/hashtags/Python?limit=40```
@@ -75,10 +75,11 @@ This project include two APIs.
    ```cd twitter_api && docker-compose build```
    
 ### Configuration
-Running the command below to set the Twitter Developer API Bearer Token
-Or alter it in docker-compose.yml if you run the app via docker-compose
 
-```export TWITTER_TOKEN={YOUR TWITTER BEARER TOKEN}```
+Ensure to set the Twitter Developer API Bearer Token before running the program.
+You can alter it in docker-compose.yml if you run the app via docker-compose
+
+```TWITTER_TOKEN={YOUR TWITTER BEARER TOKEN}```
 
 ### Executing program
 
@@ -89,9 +90,18 @@ Or alter it in docker-compose.yml if you run the app via docker-compose
    
 2. You can also run the service through pre-built docker image from Docker Hub
 
-   ```DEBUG=True docker run -it --rm balyon/twitterapi python manage.py runserver 0.0.0.0:8000```
+   ```bash
+   docker run \
+      -it \
+      --rm  \
+      -e TWITTER_TOKEN={YOUR TWITTER TOKEN} \
+      -e DEBUG=True \
+      -p 8000:8000 \
+      balyon/twitterapi \
+      python manage.py runserver 0.0.0.0:8000 
+   ```
    
-### Running the test
+### Running tests
 
 * This project has configured Travis CI, you can view the details through [build page](https://travis-ci.com/github/tylerstar/twitter-api)
 * If you want to run the test locally, after you downloading the project and installed the dependencies, 

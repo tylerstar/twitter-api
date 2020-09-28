@@ -130,7 +130,6 @@ class TwitterSearchAPIService:
     def get_tweets(self):
         res = []
         for tweet in self._tweets:
-            # get user of this tweet
             item = {}
             item['account'] = self._get_account(tweet)
             item['date'] = self._get_date(tweet)
@@ -251,7 +250,6 @@ class TwitterUserAPIService:
     def get_tweets(self):
         res = []
         for tweet in self._tweets:
-            # get user of this tweet
             item = {}
             item['account'] = self._get_account(tweet)
             item['date'] = self._get_date(tweet)
