@@ -24,10 +24,15 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'on5q#fjpo!u+pgfk8slb622_25u$53w*-rq+fu7)t2p0wcasi6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.getenv('DEBUG', False) == 'True'
 
-ALLOWED_HOSTS = []
-
+if not DEBUG:
+    REST_FRAMEWORK = {
+        'DEFAULT_RENDERER_CLASSES': (
+            'rest_framework.renderers.JSONRenderer',
+        )
+    }
+    ALLOWED_HOSTS = ['*']
 
 # Application definition
 

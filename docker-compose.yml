@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  app:
+    build:
+      context: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./twitterapi:/app
+    command: >
+      sh -c "python manage.py runserver 0.0.0.0:8000"
+      # sh -c "gunicorn --workers=2 -b :8000 twitterapi.wsgi"
+    environment:
+      - DEBUG=True
+      - TWITTER_TOKEN=
