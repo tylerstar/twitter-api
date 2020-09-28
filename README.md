@@ -75,8 +75,8 @@ This project include two APIs.
    ```cd twitter_api && docker-compose build```
    
 ### Configuration
-Running the command below to set the Twitter Developer API Bearer Token as 
-environment variable in command line or docker-compose.yml before executing the program
+Running the command below to set the Twitter Developer API Bearer Token
+Or alter it in docker-compose.yml if you run the app via docker-compose
 
 ```export TWITTER_TOKEN={YOUR TWITTER BEARER TOKEN}```
 
@@ -97,7 +97,7 @@ environment variable in command line or docker-compose.yml before executing the 
 * If you want to run the test locally, after you downloading the project and installed the dependencies, 
 you can run command below to run the test
 
-```cd twitterapi && python manage.py test && flake8```
+    ```cd twitterapi && python manage.py test && flake8```
    
 ### Deployment
 
