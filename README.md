@@ -100,6 +100,9 @@ You can alter it in docker-compose.yml if you run the app via docker-compose
    ```docker-compose up```
    
 2. You can also run the service through pre-built docker image from Docker Hub
+   ```bash
+   docker pull balyon/twitterapi
+   ```
 
    ```bash
    docker run \
